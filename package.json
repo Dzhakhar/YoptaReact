@@ -1,0 +1,30 @@
+{
+  "name": "yoptareact",
+  "version": "1.0.0",
+  "description": "React with YoptaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dzhakhar/YoptaReact.git"
+  },
+  "keywords": [
+    "yoptascript",
+    "react",
+    "yoptareact"
+  ],
+  "author": "Dzhakhar Ukhaev",
+  "license": "MIT",
+  "bin": {
+    "YoptaReact": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Dzhakhar/YoptaReact/issues"
+  },
+  "homepage": "https://github.com/Dzhakhar/YoptaReact#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
